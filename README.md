@@ -1,4 +1,5 @@
 # Predictive Analysis: Pulsar Prediction
+By: Made Rahano Satryani Widhi
 
 ## Domain Proyek
 
